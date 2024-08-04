@@ -1,20 +1,19 @@
-<H1>Task 4</H1>
+Task 3
+Analyze and visualize sentiment patterns in social media data to understand public opinion and attitudes towards specific topics or brands.
 
-<h3> Analyze and visualize sentiment patterns in social media data to understand public opinion and attitudes towards specific topics or brands.</h3> <br>
+About the data:
+This is an entity-level sentiment analysis dataset of twitter. Given a message and an entity, the task is to judge the sentiment of the message about the entity. 
 
-<h1> About the data </h1> <br>
+There are three classes in this dataset: Positive, Negative and Neutral. We regard messages that are not relevant to the entity (i.e. Irrelevant) as Neutral. 
+link - https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis
 
-<h3> 
-This is an entity-level sentiment analysis dataset of twitter. Given a message and an entity, the task is to judge the sentiment of the message about the entity.<br>
-There are three classes in this dataset: Positive, Negative and Neutral. We regard messages that are not relevant to the entity (i.e. Irrelevant) as Neutral.<br> 
-link - https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis </h3><br>
+Conclusion:
+Analyzing and visualizing sentiment patterns in social media data provided valuable insights into public opinion and attitudes towards specific topics or brands.
+By preprocessing the data, visualizing the results through graphs and charts, we identified trends and key drivers of sentiment. 
+This analysis revealed how different demographic groups and time periods influence public perception, enabling better-informed decisions for marketing and brand management. 
+Ultimately, this task underscored the importance of leveraging social media data to gain a deeper understanding of audience sentiments and to strategically shape brand communication.
 
-<h1>Conclusion</h1>
-<h3> Analyzing and visualizing sentiment patterns in social media data provided valuable insights into public opinion and attitudes towards specific topics or brands.
-By preprocessing the data, visualizing the results through graphs and charts, we identified trends and key drivers of sentiment.
-This analysis revealed how different demographic groups and time periods influence public perception, enabling better-informed decisions for marketing and brand management.
-Ultimately, this task underscored the importance of leveraging social media data to gain a deeper understanding of audience sentiments and to strategically shape brand communication. </h3><br>
-
-Feel free to give me any suggestions or feedback <br>
-Linkedin: https://www.linkedin.com/in/manav-patel-b79192312/
+Contact Information:
+Feel free to give me any suggestions or feedback: 
+ Linkedin : https://www.linkedin.com/in/manav-patel-b79192312/
 Email - manavkpatel82@gmail.com
